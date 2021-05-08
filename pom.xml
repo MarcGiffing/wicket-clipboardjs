@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
-		<wicket.version>7.2.0</wicket.version>
+		<wicket.version>7.17.0</wicket.version>
 	</properties>
 
 	<dependencies>
